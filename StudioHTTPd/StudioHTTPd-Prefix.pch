@@ -1,0 +1,7 @@
+//
+// Prefix header for all source files of the 'StudioHTTPd' target in the 'StudioHTTPd' project
+//
+
+#ifdef __OBJC__
+    #import <Cocoa/Cocoa.h>
+#endif
